@@ -1,2 +1,2 @@
 # practica_sistema_01
-snudfhjashd
+README editado por Sergio_Velasco
